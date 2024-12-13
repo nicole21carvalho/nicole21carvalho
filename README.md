@@ -2,10 +2,17 @@
 
 
  ## 📚🌱 Estudando:
- - • front-end 
- - • sistema operacional linux
+ - • Front-end 
+ - • Sistema operacional linux
  - • Wireshark(Analisador de tráfego de pacote em redes de computadores)
+ - • C#
+ - • CSS
+ - • HTML
+ - • JavaScript
  - • MYSQL
+ - • Python
+ 
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
