@@ -23,6 +23,31 @@
   <img align="center" alt="Nick-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />        
 </div>
 
+## 🚀 Projetos em destaque
+
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| 🔮 [**Oráculo**](https://github.com/nicole21carvalho/rag-pdf-chat-citations) | Perguntas sobre PDFs com IA, citando a página de onde veio cada resposta | Python · FastAPI · LangChain · Next.js · Kubernetes |
+| 💰 [**Cofre**](https://github.com/nicole21carvalho/ai-expense-tracker) | Controle financeiro com categorização automática de gastos por IA | Java · Spring Boot · Angular · PostgreSQL |
+| 🛍️ [**Loja CCI**](https://github.com/nicole21carvalho/ecommerce-spring-boot-api) | API REST de catálogo de produtos, com testes e CI | Java · Spring Boot |
+
+## 🌐 Sites publicados
+
+| Site | O que é | Links |
+|---|---|---|
+| 🏦 **Banco Tech.In.Fin** | Banco digital com área do cliente, Pix e formulários com assinatura digital | [Abrir site](https://nicole21carvalho.github.io/Site-de-banco/) · [Código](https://github.com/nicole21carvalho/Site-de-banco) |
+| 🏥 **Triagem de Sintomas Gripais** | Formulário com validação de CPF, máscaras e resumo da triagem | [Abrir site](https://nicole21carvalho.github.io/hospital-flu-screening-form/) · [Código](https://github.com/nicole21carvalho/hospital-flu-screening-form) |
+| 🛒 **Cadastro de Vendas** | Dashboard de vendas com filtros, indicadores e gráficos | [Abrir site](https://nicole21carvalho.github.io/Cadastro-de-Vendas/) · [Código](https://github.com/nicole21carvalho/Cadastro-de-Vendas) |
+| 🧮 **Calculadora** | Calculadora sem eval, com suporte ao teclado e testes | [Abrir site](https://nicole21carvalho.github.io/Calculadora/) · [Código](https://github.com/nicole21carvalho/Calculadora) |
+| 🛗 **Elevador de 11 paradas** | Simulação de elevador com fila de andares e animação | [Abrir site](https://nicole21carvalho.github.io/Elevador-11-paradas/) · [Código](https://github.com/nicole21carvalho/Elevador-11-paradas) |
+| 📅 **Tabela de Meses Editável** | Tabela editável salva no navegador, com tema claro e escuro | [Abrir site](https://nicole21carvalho.github.io/editable-months-table/) · [Código](https://github.com/nicole21carvalho/editable-months-table) |
+| 🏛️ **Banco Horizonte** | Página inicial de banco com navbar responsiva em Bootstrap | [Abrir site](https://nicole21carvalho.github.io/bank-navbar-bootstrap/) · [Código](https://github.com/nicole21carvalho/bank-navbar-bootstrap) |
+| 💼 **Carreiras em Tecnologia** | Mini-site sobre carreiras de UX e programação | [Abrir site](https://nicole21carvalho.github.io/tech-careers-pages/) · [Código](https://github.com/nicole21carvalho/tech-careers-pages) |
+| 🏷️ **Cabeçalho do Mercado Livre** | Recriação do cabeçalho com Flexbox, responsivo | [Abrir site](https://nicole21carvalho.github.io/mercado-livre-header-clone/) · [Código](https://github.com/nicole21carvalho/mercado-livre-header-clone) |
+
+Atividades da faculdade: [Formulários com JS](https://nicole21carvalho.github.io/atividades-js-formularios/) · [Arrow functions](https://nicole21carvalho.github.io/atividade-arrow-functions-js/) · [Lista de tarefas](https://nicole21carvalho.github.io/atividade-adivinhe-numero-lista-tarefas/) · [Manipulando HTML](https://nicole21carvalho.github.io/atividade-manipulando-html-js/) · [Introdução ao HTML](https://nicole21carvalho.github.io/html-intro-page/)
+
+
 
 ###
 
