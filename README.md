@@ -61,9 +61,8 @@ Atividades da faculdade: [Formulários com JS](https://nicole21carvalho.github.i
 ###
 
 <div> 
-  <a href="[https://instagram.com/rafaballerini](https://www.instagram.com/nicole_r.carvalho?utm_source=qr&igsh=MW1jNDYyaHo0aGJqMA==)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "nicolerdcarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/nicole-de-carvalho-7465b52a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:nicolerdcarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/nicole-de-carvalho-7465b52a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   
 </div>
 
