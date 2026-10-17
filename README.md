@@ -16,17 +16,19 @@
 
 ## 💡 Sobre mim
 
-Construo sistemas de ponta a ponta, da API ao front-end e do banco de dados ao deploy, e gosto de provar que funcionam:
-testes de concorrência, avaliação de IA com números, *traces* que atravessam todos os serviços e CI que barra
-vulnerabilidade antes do merge.
+Desenvolvedora full stack com foco em **back-end, sistemas distribuídos e IA aplicada**.
 
-- 🤖 **IA aplicada de verdade**: agente com ferramentas (MCP), RAG com citação da fonte, avaliação dos modelos no CI
-  e defesa contra *prompt injection*
-- 🏗️ **Back-end e sistemas distribuídos**: Spring Boot, FastAPI e ASP.NET Core; sagas, outbox, idempotência e
-  event sourcing
-- 🔐 **Segurança desde o começo**: OAuth 2.0 / OIDC com Keycloak, passkeys, troca de token (RFC 8693), containers
-  sem root, CodeQL e varredura de dependências
+- 🤖 **IA com resultado medido**: agente com MCP avaliado com modelos reais no CI (94% de acerto), RAG que cita a
+  página de onde veio cada resposta e defesa contra *prompt injection*
+- 🏗️ **Sistemas que não perdem dados**: sagas com Kafka, outbox, idempotência e event sourcing, com concorrência
+  testada no PostgreSQL de verdade
+- 🔐 **Segurança desde o primeiro commit**: OAuth 2.0 / OIDC com Keycloak, passkeys, troca de token (RFC 8693),
+  containers sem root e CodeQL
+- 🔭 **Observabilidade de ponta a ponta**: *traces* do OpenTelemetry que atravessam todos os serviços (foi um deles
+  que me mostrou um bug de pedido em dobro, que corrigi com idempotência)
 - 🐧 **Linux no dia a dia**, com Docker, Kubernetes e GitHub Actions
+
+🎯 **Busco estágio ou vaga** em back-end, full stack ou IA, e topo colaborar em projetos open source.
 
 > 🌎 *Full-stack developer (Java · Python · .NET · AI), open to internships and job opportunities. Project READMEs
 > are in Portuguese.*
