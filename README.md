@@ -28,8 +28,6 @@ Desenvolvedora full stack com foco em **back-end, sistemas distribuídos e IA ap
   que me mostrou um bug de pedido em dobro, que corrigi com idempotência)
 - 🐧 **Linux no dia a dia**, com Docker, Kubernetes e GitHub Actions
 
-🎯 **Busco estágio ou vaga** em back-end, full stack ou IA, e topo colaborar em projetos open source.
-
 > 🌎 *Full-stack developer (Java · Python · .NET · AI), open to internships and job opportunities. Project READMEs
 > are in Portuguese.*
 
