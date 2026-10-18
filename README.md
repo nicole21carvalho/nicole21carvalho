@@ -2,6 +2,8 @@
 
 <h3 align="center">💻 Desenvolvedora Full Stack &nbsp;·&nbsp; ☕ Java · 🐍 Python · 🟣 .NET &nbsp;·&nbsp; 🤖 IA aplicada</h3>
 
+<p align="center">🎓 <b>Engenharia de Software</b> · formatura prevista em 2027.2 &nbsp;|&nbsp; 🌎 <a href="https://github.com/nicole21carvalho/nicole21carvalho/blob/main/README.en.md"><b>Read in English</b></a></p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=BD93F9&center=true&vCenter=true&width=640&lines=Agentes+de+IA+com+LangGraph+e+MCP;Microsservi%C3%A7os+com+Kafka+e+sagas;Banco+digital+com+event+sourcing+em+.NET;RAG+com+LangChain%2C+pgvector+e+Ollama;Docker%2C+Kubernetes+e+CI%2FCD" alt="Agentes de IA, microsserviços com Kafka, event sourcing em .NET, RAG e DevOps" />
 </p>
@@ -28,8 +30,9 @@ Desenvolvedora full stack com foco em **back-end, sistemas distribuídos e IA ap
   que me mostrou um bug de pedido em dobro, que corrigi com idempotência)
 - 🐧 **Linux no dia a dia**, com Docker, Kubernetes e GitHub Actions
 
-> 🌎 *Full-stack developer (Java · Python · .NET · AI), open to internships and job opportunities. Project READMEs
-> are in Portuguese.*
+> 🌎 *Full-stack developer (Java · Python · .NET · AI), open to internships and job opportunities.
+> [Full profile in English](https://github.com/nicole21carvalho/nicole21carvalho/blob/main/README.en.md); every
+> project below has an English summary at the top.*
 
 ---
 
@@ -78,7 +81,7 @@ Desenvolvedora full stack com foco em **back-end, sistemas distribuídos e IA ap
       <ul>
         <li>5 serviços Java com <b>Kafka</b>: saga com compensação, <b>Transactional Outbox</b> e consumo idempotente</li>
         <li>Cada pedido vira um <i>trace</i> que atravessa todos os serviços (Jaeger + Grafana)</li>
-        <li><b>Kubernetes, Terraform e GitOps (Flux)</b> na Oracle Cloud</li>
+        <li><b>Kubernetes, Terraform e GitOps (Flux)</b> para a Oracle Cloud, testados num k3s local</li>
         <li><b>42 testes de integração</b> com Postgres e Kafka de verdade, 25 no front-end e 15 de ponta a ponta</li>
       </ul>
       <code>Java 25</code> <code>Spring Boot</code> <code>Kafka</code> <code>React</code> <code>TypeScript</code> <code>Kubernetes</code> <code>Terraform</code>
